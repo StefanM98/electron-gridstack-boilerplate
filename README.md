@@ -8,7 +8,7 @@ This project contains only bare minimum of dependencies.
 
 Make sure you have [Node.js](https://nodejs.org) installed, then type the following commands:
 ```
-git clone https://github.com/StefanM98/electron-gridstack-boilerplate.git
+git clone https://github.com/StefanM98/electron-gridstack-boilerplate.git electron-gridstack
 cd electron-gridstack
 npm install
 npm start
